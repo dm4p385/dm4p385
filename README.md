@@ -1,4 +1,4 @@
-### Hello there 👋
+## Hello there 👋
 #### I am Harsh Singh AKA DankMemes4President 🤠
 - 🏫 I'm pursuing my B.E. in Electrical Engineering from Birla Institute of Technology and Sciences (BITS) Pilani, Pilani Campus
 - 🔭 I’m currently working on **REST APIs** and **Backend Projects**
@@ -32,7 +32,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
   </a>
  </p>
- 
+<br>
+ <br>
  <h3 align="left">Technologies and Frameworks that I've worked with:</h3>
  <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
@@ -69,6 +70,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
   </a>
  </p>
+ <br>
  
  ---
  ### Some Stats:
