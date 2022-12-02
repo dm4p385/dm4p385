@@ -2,8 +2,8 @@
 #### I am Harsh Singh AKA DankMemes4President 🤠
 - 🏫 I'm pursuing my B.E. in Electrical Engineering from Birla Institute of Technology and Sciences (BITS) Pilani, Pilani Campus
 - 🔭 I’m currently working on **REST APIs** and **Backend Projects**
-- 🌱 I’m currently learning **Node JS** and **Ethical Hacking**
-- 👯 I’m looking to collaborate on **Django/DRF projects**
+- 🌱 I’m currently learning **GoLang**
+- 👯 I’m looking to collaborate on **Web Dev projects**
 - 📫 You can reach me anytime on my <a href="mailto:harshsingh050803@gmail.com">email</a>
 - 😄 Pronouns: He/Him
 - ⚡ ~~Fun~~ Dog fact: The cutie in my profile picture is my Lovely Labrador Max 🐶
