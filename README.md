@@ -71,7 +71,3 @@
   </a>
  </p>
  <br>
- 
- ---
- ### Some Stats:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dankmemes4president&show_icons=true&theme=synthwave&locale=en" alt="dankmemes4president" /></p>
